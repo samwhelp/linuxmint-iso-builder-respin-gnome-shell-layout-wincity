@@ -2,8 +2,9 @@
 
 [org.gnome.shell]
 disable-user-extensions=false
-disabled-extensions=@as []
-enabled-extensions=['user-theme@gnome-shell-extensions.gcampax.github.com', 'blur-my-shell@aunetx', 'arcmenu@arcmenu.com', 'status-icons@gnome-shell-extensions.gcampax.github.com', 'date-menu-formatter@marcinjakubowski.github.com', 'dash-to-panel@jderose9.github.com']
+#disabled-extensions=@as []
+disabled-extensions=['ubuntu-dock@ubuntu.com', 'gtk4-ding@smedius.gitlab.com', 'snapd-prompting@canonical.com', 'snapd-search-provider@canonical.com', 'tiling-assistant@ubuntu.com', 'web-search-provider@ubuntu.com', 'status-icons@gnome-shell-extensions.gcampax.github.com']
+enabled-extensions=['user-theme@gnome-shell-extensions.gcampax.github.com', 'blur-my-shell@aunetx', 'arcmenu@arcmenu.com', 'date-menu-formatter@marcinjakubowski.github.com', 'dash-to-panel@jderose9.github.com', 'ding@rastersoft.com', 'ubuntu-appindicators@ubuntu.com']
 
 
 
