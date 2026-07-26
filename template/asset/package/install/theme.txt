@@ -12,3 +12,12 @@
 ##
 
 adwaita-icon-theme
+
+
+
+
+##
+## ## Package / Theme / orchis
+##
+
+orchis-gtk-theme
