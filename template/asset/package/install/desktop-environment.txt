@@ -22,11 +22,12 @@ gnome-settings-daemon
 gnome-tweaks
 
 
+gir1.2-gmenu-3.0
 gnome-shell-extension-prefs
 gnome-shell-extension-manager
 gnome-menus
-gnome-shell-extensions
-gnome-shell-extension-ubuntu-dock
+#gnome-shell-extensions
+#gnome-shell-extension-dashtodock
 
 
 nautilus
