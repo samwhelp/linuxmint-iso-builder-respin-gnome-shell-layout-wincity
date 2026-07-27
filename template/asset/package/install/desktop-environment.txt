@@ -54,6 +54,9 @@ libgtksourceview-3.0-common
 libgtksourceview-4-common
 
 
+gnome-text-editor
+
+
 
 
 ##
