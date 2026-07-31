@@ -36,9 +36,9 @@ function mod_pipx_install () {
 	print_info "Install pipx ..."
 
 	echo
-	echo apt install ${INTERACTIVE} pipx --install-recommends
+	echo apt install -y pipx --install-recommends
 	echo
-	apt install ${INTERACTIVE} pipx --install-recommends
+	apt install -y pipx --install-recommends
 
 	judge "Install pipx"
 
